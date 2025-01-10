@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm **Lidor**! (I'm Israeli 🇮🇱)
 
-<!--
-**Lidordev17/Lidordev17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with experience in languages such as:
 
-Here are some ideas to get you started:
+- **Java** 🟩
+- **Python** 🐍
+- **JavaScript** (Node.js, Discord.js) ⚡
+- **HTML** 📄 | **CSS** 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **I specialize in:**
+- **Website** development 🌐
+- Creating **Discord bots** 🤖
+- Developing **automated systems** 🔧 and custom tools
+
+## 📂 **What you'll find here:**
+- My projects 💻
+- Open source code 🔓
+- Tools I develop 🛠️
+
+I'm **16** years old and in **10th grade**.
+
+If you're interested in collaborating or just want to talk tech, feel free to reach out! 📩
