@@ -1,23 +1,32 @@
-# 👋 Hello, I'm **Lidor**! (I'm mostly American 🇺🇸 and part Israeli 🇮🇱)
+# 👋 Hey, I'm **Lidor** — Full Stack & Discord Bot Developer  
+🇺🇸 Mostly American | 🇮🇱 Part Israeli | 🧠 Young, skilled & ambitious
 
-I'm a developer with experience in languages such as:
+## 👨‍💻 About Me  
+I'm a passionate developer with experience in:
 
-- **Java** 🟩  
-- **Python** 🐍  
-- **JavaScript** (Node.js, Discord.js) ⚡  
-- **HTML** 📄 | **CSS** 🎨  
+- 🐍 **Python** — automation, bots, personal tools  
+- 🟩 **Java** (basic) — backend fundamentals & OOP concepts  
+- ⚡ **JavaScript (Node.js, Discord.js)** — bot systems and dashboards  
+- 🌐 **HTML / CSS** — modern and responsive websites  
+- 🐘 **PHP** — backend logic, CMS tools, and database connections  
+- 🧩 Plus a few other languages I’ve explored over time
 
-## 🚀 **I specialize in:**
-- **Website** development 🌐  
-- Creating **Discord bots** 🤖  
-- Developing **automated systems** 🔧 and custom tools  
+I'm **16.7 years old**, currently in **11th grade**, and already building systems used by real clients and communities.
 
-## 📂 **What you'll find here:**
-- My projects 💻  
-- Open source code 🔓  
-- Tools I develop 🛠️  
+## 🚀 What I Do
+- 🤖 **Discord Bots** — advanced commands, smart responses, role systems, alert tools  
+- 🛠️ **Custom Automation** — tools that save time and streamline work  
+- 🌐 **Website Development** — modern UI, mobile-first design, fast performance  
+- 🔐 **Private & Open Source Projects** — bots, dashboards, APIs, dev tools
 
-I'm **16.7 years old** and currently in **11th grade**.
+## 📁 What You'll Find
+- 💻 **Live projects** I'm currently working on  
+- 🔓 **Open source code** for devs and learners  
+- 🧰 **Tools for Discord & server management**  
+- 🎨 Custom-designed **embeds, bots, and UI systems**
 
-If you're interested in collaborating or just want to talk tech, feel free to reach out!  
-**Discord:** `lidor_dev` 📩
+## 🤝 Let's Connect!
+- 💬 Discord: `lidor_dev`  
+- 🏷️ Personal Motto: *"Go with the dream. Never give up."*  
+
+> 🔥 Always improving. Always building. Always dreaming.
