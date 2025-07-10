@@ -17,7 +17,7 @@ I'm a developer with experience in languages such as:
 - Open source code 🔓  
 - Tools I develop 🛠️  
 
-I'm **16.6 years old** and currently in **10th grade**.
+I'm **16.7 years old** and currently in **11th grade**.
 
 If you're interested in collaborating or just want to talk tech, feel free to reach out!  
 **Discord:** `lidor_dev` 📩
